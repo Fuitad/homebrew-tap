@@ -13,7 +13,6 @@ cask "cimon" do
   end
 
   auto_updates false
-  depends_on macos: ">= 10.13"
 
   app "CIMon.app"
 
