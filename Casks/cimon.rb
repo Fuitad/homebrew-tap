@@ -1,6 +1,6 @@
 cask "cimon" do
-  version "0.1.0"
-  sha256 "e39e3000c1c473e0cef2ad3438eafef4336ad6a7e790e446f951fd7394b724c3"
+  version "0.1.1"
+  sha256 "c67da92ff594f5602111931afcf33259d68f0619936efbdf096f989eb978473a"
 
   url "https://github.com/Fuitad/cimon/releases/download/v#{version}/CIMon_#{version}_universal.dmg"
   name "CIMon"
